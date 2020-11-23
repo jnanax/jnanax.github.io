@@ -1,2 +1,7 @@
 theme: jekyll-theme-cayman
-title: Zippera's blog
+title: 倩丫头 #站点名，站点左上角
+subtitle: 徐飞给倩丫头制作的主页 #副标题，站点左上角
+description: 献给丫头的礼物，夏倩倩，博客，Jnana #索引擎看的，对站点的描述，可以自定义
+author: jam #在站点左下角可以看到
+email: xufei0808@gmail.com #你的联系邮箱
+language: zh-CN #中国人嘛，用中文
